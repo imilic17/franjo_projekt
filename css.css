@@ -1,0 +1,22 @@
+body {
+    background-color: #d1d1d1;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    color: #1d55ec;
+}
+
+p {
+    color: #1d55ec;
+    text-align: center;
+}
+
+.btn.btn-primary {
+    margin: auto;
+}
+
+.dropdown {
+    margin: 10px;
+}
